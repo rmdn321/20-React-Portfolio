@@ -1,4 +1,5 @@
 import React from "react";
+import Resumefile from "../../assets/Resume_Devi.pdf"
 
 const Resume = () => {
   return (
@@ -29,7 +30,7 @@ const Resume = () => {
                 <li>Redux</li>             
               </ul>
             </div>
-            <a href="Resume_Devi.pdf" download="Devi_Resume.pdf">
+            <a href={Resumefile} download="Devi_Resume.pdf">
               <button className='btn pink-btn mt-3'>Download Resume</button>
             </a>
           </div>
