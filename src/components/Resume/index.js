@@ -29,7 +29,9 @@ const Resume = () => {
                 <li>Redux</li>             
               </ul>
             </div>
-            <button className='btn pink-btn'>Download Resume</button>
+            <a href="Resume_Devi.pdf" download="Devi_Resume.pdf">
+              <button className='btn pink-btn mt-3'>Download Resume</button>
+            </a>
           </div>
         </div>
       </div>
