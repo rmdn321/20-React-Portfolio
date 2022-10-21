@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/20-React-Portfolio/static/css/main.d469341f.css",
+    "main.js": "/20-React-Portfolio/static/js/main.1ef6b1c4.js",
+    "static/media/BonAppetit.png": "/20-React-Portfolio/static/media/BonAppetit.50e455419bbab8059d4e.png",
+    "static/media/Devi.jpg": "/20-React-Portfolio/static/media/Devi.0a7b7427211be7c787e9.jpg",
+    "static/media/B4UBoard.png": "/20-React-Portfolio/static/media/B4UBoard.3efc9b9708ea181a7a7d.png",
+    "static/media/GetItDone.png": "/20-React-Portfolio/static/media/GetItDone.0448ddf31f9cb37bfba6.png",
+    "static/media/JavascriptQuiz.png": "/20-React-Portfolio/static/media/JavascriptQuiz.201126ec467ffed581c3.png",
+    "static/media/WeatherApp.png": "/20-React-Portfolio/static/media/WeatherApp.15f60d96a00246ec8247.png",
+    "static/media/WorkdayScheduler.png": "/20-React-Portfolio/static/media/WorkdayScheduler.44ec32b7225ad3ba0e42.png",
+    "index.html": "/20-React-Portfolio/index.html",
+    "main.d469341f.css.map": "/20-React-Portfolio/static/css/main.d469341f.css.map",
+    "main.1ef6b1c4.js.map": "/20-React-Portfolio/static/js/main.1ef6b1c4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d469341f.css",
+    "static/js/main.1ef6b1c4.js"
+  ]
+}
