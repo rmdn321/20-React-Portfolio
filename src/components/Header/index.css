@@ -1,0 +1,30 @@
+.brand-text {
+  color: white;
+  font-size: 2rem;
+  font-weight: bold;  
+}
+
+.brand-text:hover,
+.brand-text:active {
+  color: white;
+}
+
+.bg-green {
+  background-color: #38b000;
+}
+
+.nav-btn {
+  color: white;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin: 3px;
+}
+
+.nav-btn:hover {
+  color: white;
+  border: 3px solid #f72585;    
+}
+
+.pink-bottom{
+  border-bottom: 4px solid #f72585;
+}

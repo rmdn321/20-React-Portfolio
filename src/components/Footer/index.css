@@ -1,0 +1,32 @@
+.bg-green {
+  background-color: #38b000;
+}
+
+.footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  color: white;
+  text-align: center;
+  height: 7%;  
+}
+
+.f-link {
+  display: flex;
+  justify-content: space-evenly;  
+}
+
+.f-link a{
+  color: white;
+  padding: 10px;
+  text-decoration: none;
+}
+
+.f-link a:hover{
+  font-size: 1.1rem;
+}
+
+.pink-top{
+  border-top: 4px solid #f72585;
+}

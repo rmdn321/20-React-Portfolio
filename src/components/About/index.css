@@ -1,0 +1,9 @@
+.about-card{
+  width: 70vw;
+  border: 2px solid transparent;
+}
+
+.text-pink{
+  color: #f72585;
+  font-weight: bold;
+}
