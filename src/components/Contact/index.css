@@ -1,0 +1,22 @@
+.contact-card{
+  width: 60vw;
+  border: 2px solid transparent;
+}
+
+.text-pink{
+  color: #f72585;
+  font-weight: bold;
+}
+
+.pink-btn{
+  background-color: #f72585;
+  color: white;
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.pink-btn:hover {
+  background-color: #f72585;
+  color: white;
+  font-size: 1.3rem;
+}
