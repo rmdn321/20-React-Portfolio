@@ -8,10 +8,10 @@ export default function Header() {
         <div className="container ">
           <h1 className="navbar-brand brand-text">Devi Nallammai Ramaswamy</h1> 
           <div className="d-flex">
-            <Link exact= "true" to="/about" className="btn nav-btn">About Me</Link>
-            <Link exact= "true" to="/portfolio" className="btn nav-btn">Portfolio</Link>
-            <Link exact= "true" to="/contact" className="btn nav-btn">Contact Me</Link>
-            <Link exact= "true" to="/resume" className="btn nav-btn">Resume</Link>            
+            <Link exact= "true" to="/20-React-Portfolio/about" className="btn nav-btn">About Me</Link>
+            <Link exact= "true" to="/20-React-Portfolio/portfolio" className="btn nav-btn">Portfolio</Link>
+            <Link exact= "true" to="/20-React-Portfolio/contact" className="btn nav-btn">Contact Me</Link>
+            <Link exact= "true" to="/20-React-Portfolio/resume" className="btn nav-btn">Resume</Link>            
           </div>
         </div>
       </nav>

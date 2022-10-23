@@ -12,11 +12,11 @@ function App() {
     <Router>
       <Header />
       <Routes>
-        <Route path='/' element={<About />} />
-        <Route path="/about" element={<About />} />
-        <Route path="/portfolio" element={<Portfolio />} />
-        <Route path="/contact" element={<Contact />} />
-        <Route path="/resume" element={<Resume />} />
+        <Route path='/20-React-Portfolio' element={<About />} />
+        <Route path="/20-React-Portfolio/about" element={<About />} />
+        <Route path="/20-React-Portfolio/portfolio" element={<Portfolio />} />
+        <Route path="/20-React-Portfolio/contact" element={<Contact />} />
+        <Route path="/20-React-Portfolio/resume" element={<Resume />} />
       </Routes>
       <Footer />
     </Router>
